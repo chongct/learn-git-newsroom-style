@@ -6,7 +6,7 @@ Serving you daily printed news since before newspapers went online.
 
 ## Local News
 * headline
-* headline
+Someone run down to the corner store and buy us a pack of smokes. Geez!
 
 ## Sports
 * headline
@@ -17,13 +17,13 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    Sunny
+Monday:    Sunny
+Tuesday:   Sunny
+Wednesday: Sunny
+Thursday:  Cloudy
+Friday:    Cloudy
+Saturday:  Cloudy
 
 June 27, 2016
 25 cents
